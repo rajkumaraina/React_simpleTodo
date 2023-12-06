@@ -1,0 +1,19 @@
+.listContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.para {
+  color: #000000;
+  margin-right: 25px;
+}
+.button {
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  width: 50px;
+  height: 30px;
+  border-radius: 8px;
+  cursor: pointer;
+  outline: none;
+}

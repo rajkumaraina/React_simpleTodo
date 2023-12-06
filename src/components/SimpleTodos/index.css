@@ -1,0 +1,22 @@
+.bgContainer {
+  background-color: #ffc2a0;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  padding: 45px;
+}
+.insideContainer {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 8px;
+  padding: 8px;
+  width: 65%;
+}
+.heading {
+  color: #ff8542;
+}
